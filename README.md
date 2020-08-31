@@ -19,9 +19,9 @@
 [<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/instagram.png" />][instagram]
 [<img align="left" alt="vkyprmr | Facebook" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/facebook.png" />][facebook]
 
+<br />
 ---
 
-<br />
 
 ### Languages and Tools:
 
