@@ -14,10 +14,10 @@
 
 
 
-[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/logos/LinkedIn.svg" />][linkedin]
-[<img align="left" alt="vkyprmr | Xing" width="26px" src="" />][xing]
-[<img align="left" alt="vkyprmr | Instagram" width="26px" src="" />][instagram]
-[<img align="left" alt="vkyprmr | Facebook" width="26px" src="" />][facebook]
+[<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/xing.png" />][xing]
+[<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/instagram.png" />][instagram]
+[<img align="left" alt="vkyprmr | Facebook" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/facebook.png" />][facebook]
 
 ---
 
@@ -25,16 +25,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="30px" src="" />
-<img align="left" alt="TensorFlow" width="30px" src="" />
-<img align="left" alt="Jupyter" width="30px" src="" />
-<img align="left" alt="AWS" width="30px" src="" />
-<img align="left" alt="PyTorch" width="30px" src="" />
-<img align="left" alt="Git" width="30px" src="" />
-<img align="left" alt="Github" width="30px" src="" />
-<img align="left" alt="VSCode" width="30px" src="" />
-<img align="left" alt="R" width="30px" src="" />
-<img align="left" alt="C#" width="30px" src="" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/python.png" />
+<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/tensorflow.png" />
+<img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/jupyter.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/aws.png" />
+<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/pytorch.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/git.png" />
+<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/github.png" />
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/vscode.png" />
+<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/r.png" />
+<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/csharp.png" />
 
 <br />
 <br />
