@@ -25,7 +25,6 @@
 
 
 ### Languages and Tools:
-<br />
 
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/python.svg" />
@@ -39,6 +38,7 @@
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/r.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/csharp.svg" />
 
+<br />
 <br />
 
 ---
