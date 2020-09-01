@@ -40,7 +40,6 @@
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/csharp.svg" />
 
 <br />
-<br />
 
 ---
 
