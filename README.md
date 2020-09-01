@@ -11,8 +11,8 @@
 
 
 ### Connect with me:
-
-
+<br />
+<br />
 
 [<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/linkedin.svg" />][linkedin]
 [<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/xing.svg" />][xing]
@@ -26,6 +26,8 @@
 
 
 ### Languages and Tools:
+<br />
+<br />
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/python.svg" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/tensorflow.svg" />
