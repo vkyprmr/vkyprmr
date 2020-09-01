@@ -31,12 +31,12 @@
 <img align="left" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/tensorflow.svg" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/vscode.svg" />
 <img align="left" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/jupyter.svg" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/github.svg" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/git.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/github.svg" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/pytorch.svg" />
+<img align="left" width="32px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/test.svg" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/r.svg" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/csharp.svg" />
-<img align="left" width="32px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/test.svg" />
 
 <br />
 <br />
