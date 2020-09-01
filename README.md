@@ -27,6 +27,7 @@
 ### Languages and Tools:
 <br />
 
+
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/python.svg" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/tensorflow.svg" />
 <img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/jupyter.svg" />
