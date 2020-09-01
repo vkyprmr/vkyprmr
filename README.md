@@ -27,16 +27,16 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/python.svg" />
-<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/tensorflow.svg" />
-<img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/jupyter.svg" />
-<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/aws.svg" />
-<img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/pytorch.svg" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/git.svg" />
-<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/github.svg" />
-<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/vscode.svg" />
-<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/r.svg" />
-<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/csharp.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/python.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/tensorflow.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/jupyter.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/aws.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/pytorch.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/git.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/github.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/vscode.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/r.svg" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/csharp.svg" />
 
 <br />
 <br />
