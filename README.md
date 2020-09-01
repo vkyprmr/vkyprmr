@@ -16,7 +16,7 @@
 [<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/linkedin.svg" />][linkedin]
 [<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/xing.svg" />][xing]
 [<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/instagram.svg" />][instagram]
-[<img align="left" alt="vkyprmr | Facebook" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/facebook.svg" />][facebook]
+[<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/facebook.svg" />][facebook]
 
 <br />
 <br />
