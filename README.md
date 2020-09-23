@@ -14,6 +14,7 @@
 
 [<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][resume]        [<img align="left" alt="vkyprmr | Lebenslauf" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][lebenslauf]
 <br />
+<br />
 *English* *German*
 
 ### Connect with me:
