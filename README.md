@@ -4,7 +4,8 @@
 ## I'm a Machine Learning, Deep Learning and AI ENTHUSIAST, Developer, and a keen learner!
 
 - 💻 I’m currently working on CNN, NLP and Time-series!
-- 📚 I’m currently learning everything 👨🏽‍🎓
+- 📚 My current focus is on Image Classification and Object Detection
+- 👨🏽‍🎓 I am planning to take the TensorFlow Developer Certification Exam
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and binge-watch series 🎬
@@ -17,6 +18,7 @@
 [<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/xing.svg" />][xing]
 [<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/instagram.svg" />][instagram]
 [<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/facebook.svg" />][facebook]
+[<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/Monogram.png" />][medium]
 
 <br />
 <br />
@@ -56,3 +58,4 @@
 [linkedin]: https://www.linkedin.com/in/parmarvickyk/
 [facebook]: https://www.facebook.com/vicky.parmar.52
 [xing]: https://www.xing.com/profile/Vicky_Parmar/cv
+[medium]: https://medium.com/@parmarV
