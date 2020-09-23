@@ -10,8 +10,8 @@
 - 🥅 2020 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and binge-watch series 🎬
 
-#### Resume [<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][resume]
-#### Lebenslauf [<img align="left" alt="vkyprmr | Lebenslauf" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][lebenslauf]
+### You can find my Resume below:
+#### English [<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][resume] #### German [<img align="left" alt="vkyprmr | Lebenslauf" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][lebenslauf]
 
 ### Connect with me:
 <br />
