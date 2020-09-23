@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and binge-watch series 🎬
 
+#### Resume [<img align="left" alt="vkyprmr | Resume" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][resume]
+#### Lebenslauf [<img align="left" alt="vkyprmr | Lebenslauf" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/PDF_32.png" />][lebenslauf]
 
 ### Connect with me:
 <br />
@@ -18,7 +20,7 @@
 [<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/xing.svg" />][xing]
 [<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/instagram.svg" />][instagram]
 [<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/facebook.svg" />][facebook]
-[<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/Monogram.png" />][medium]
+[<img align="left" alt="vkyprmr | Medium" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/Monogram.png" />][medium]
 
 <br />
 <br />
@@ -59,3 +61,5 @@
 [facebook]: https://www.facebook.com/vicky.parmar.52
 [xing]: https://www.xing.com/profile/Vicky_Parmar/cv
 [medium]: https://medium.com/@parmarV
+[resume]: https://github.com/vkyprmr/career/blob/master/Career/2020/Docs/current/new_iteration/resume.pdf
+[lebenslauf]: https://github.com/vkyprmr/career/blob/master/Career/2020/Docs/current/new_iteration/lebenslauf.pdf
