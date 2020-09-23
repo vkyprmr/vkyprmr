@@ -61,5 +61,5 @@
 [facebook]: https://www.facebook.com/vicky.parmar.52
 [xing]: https://www.xing.com/profile/Vicky_Parmar/cv
 [medium]: https://medium.com/@parmarV
-[resume]: https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/docs/resume.pdf
-[lebenslauf]: https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/docs/lebenslauf.pdf
+[resume]:https://github.com/vkyprmr/vkyprmr/blob/master/assets/docs/resume.pdf
+[lebenslauf]: https://github.com/vkyprmr/vkyprmr/blob/master/assets/docs/lebenslauf.pdf
