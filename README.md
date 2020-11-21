@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on CNN, NLP and Time-series!
 - 📚 My current focus is on Image Classification and Object Detection
-- 👨🏽‍🎓 I am planning to take the TensorFlow Developer Certification Exam
+- 👨🏽‍🎓 I am planning to take the TensorFlow Developer Certification Exam (✅ as of 21.11.2020)
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and binge-watch series 🎬
