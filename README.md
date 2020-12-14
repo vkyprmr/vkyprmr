@@ -21,9 +21,9 @@
 <br />
 
 [<img align="left" alt="vkyprmr | LinkedIn" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/linkedin.png" />][linkedin]
-[<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/xing.svg" />][xing]
-[<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/instagram.svg" />][instagram]
-[<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/svg/color/facebook.svg" />][facebook]
+[<img align="left" alt="vkyprmr | Xing" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/xing.png" />][xing]
+[<img align="left" alt="vkyprmr | Instagram" width="26px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/instagram.png" />][instagram]
+[<img align="left" alt="vkyprmr | Facebook" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/facebook.png" />][facebook]
 [<img align="left" alt="vkyprmr | Medium" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/Monogram.png" />][medium]
 
 <br />
