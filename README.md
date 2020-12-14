@@ -44,11 +44,11 @@
 
 
 <img align="left" width="40px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/python.png" />
-<img align="left" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/tensorflow.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/vscode.png" />
+<img align="left" width="24px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/tensorflow.png" />
+<img align="left" width="24px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/vscode.png" />
 <img align="left" width="28px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/jupyter.png" />
 <img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/git.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/github_white.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/github_white.png" />
 <img align="left" width="32px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/pytorch.png" />
 <img align="left" width="32px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/csharp.png" />
 
