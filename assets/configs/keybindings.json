@@ -1,0 +1,41 @@
+// Place your key bindings in this file to override the defaults
+[
+    { "key": "ctrl+alt+c", "command": "editor.action.insertSnippet",
+        "when":  "editorTextFocus",
+        "args": {
+          "name": "Created" 
+        }
+    },
+    { "key": "ctrl+alt+m", "command": "editor.action.insertSnippet",
+        "when":  "editorTextFocus",
+        "args": {
+            "name": "Modified" 
+        }
+    },
+    { "key": "ctrl+8", "command": "editor.action.fontZoomIn",
+        "when":  "editorTextFocus",
+        "args": {
+            "name": "Modified" 
+        }
+    },
+    { "key": "ctrl+9", "command": "editor.action.fontZoomOut",
+        "when":  "editorTextFocus",
+        "args": {
+            "name": "Modified" 
+        }
+    },
+    { "key": "ctrl+0", "command": "editor.action.fontZoomReset",
+        "when":  "editorTextFocus",
+        "args": {
+            "name": "Modified" 
+        }
+    },
+    {
+        "key": "ctrl+shift+t",
+        "command": "shellLauncher.launch"
+    }
+]
+
+// - editor.action.fontZoomIn
+// - editor.action.fontZoomOut
+// - editor.action.fontZoomReset
