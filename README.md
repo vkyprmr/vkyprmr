@@ -3,11 +3,11 @@
 
 ## I'm a Machine Learning, Deep Learning and AI ENTHUSIAST, Developer, and a keen learner!
 
-- 💻 I’m currently working on CNN, NLP and Time-series!
+- 💻 I’m currently working on integration of AI in medical industry
 - 📚 My current focus is on Image Classification and Object Detection
 - 👨🏽‍🎓 I am planning to take the TensorFlow Developer Certification Exam (✅ as of 21.11.2020)
 - 🤝 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Build up a dashing portfolio
+- 🥅 2021 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and binge-watch series 🎬
 
 ### You can find my Resume below:
