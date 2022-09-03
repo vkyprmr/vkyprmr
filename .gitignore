@@ -11,6 +11,7 @@
 *.sln.docstates
 *.csv
 *.h5
+*.ftr
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
