@@ -1,14 +1,14 @@
 ### Hi there, I'm Vicky 👋
 
 
-### I'm a Machine Learning, Deep Learning and AI ENTHUSIAST, Developer, and a keen learner!
+### I'm a Machine Learning, Deep Learning, and AI ENTHUSIAST Developer, and a keen learner!
 
-- 💻 I’m currently working on integration of AI in medical industry
+- 💻 I’m currently working on the integration of AI into the medical industry
 - 📚 My current area of research (as a Researcher at Universitätsklinikum Essen) is Radiomics for tumor decoding.
 - 👨🏽‍🎓 TensorFlow Developer Certification Exam (✅ as of 21.11.2020)
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Build up a dashing portfolio
-- 🎧 Fun fact: I love to listen to music, go hiking, cook delicious food, and obviously binge-watch series 🎬
+- 🎧 Fun fact: I love listening to music, hiking, and cooking.
 
 ### You can find my Resume below:
 
