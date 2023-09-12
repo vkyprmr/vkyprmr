@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on the integration of AI into the medical industry
 - 📚 My current area of research (as a Researcher at Universitätsklinikum Essen) is Radiomics for tumor decoding.
-- 👨🏽‍🎓 TensorFlow Developer Certification Exam (✅ as of 21.11.2020)
+- 👨🏽‍🎓 Currently pursuing my PhD.
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love listening to music, hiking, and cooking.
